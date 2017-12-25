@@ -38,7 +38,7 @@ user4 = "Name: "
 import getpass
 
 credentials = {}                                                            ## Sets up an array for the login credentials
-with open('/Usernames.txt', 'r') as f:                                       ## Opens the file and reads it
+with open('C:/usernames.txt', 'r') as f:                                       ## Opens the file and reads it
     for line in f:  ## For each line
         username, password = line.strip().split(':')                        ## Separate each line into username and password, splitting after a colon
         credentials[username] = password                                    ## Links username to password

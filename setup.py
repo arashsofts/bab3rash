@@ -3,3 +3,9 @@ import py2exe
 
 setup(
     console=['sheeba.py'])
+    options = {
+        'py2exe' = {
+            'packages': ['getpass']
+        }
+    }
+)

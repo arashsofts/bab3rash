@@ -1,27 +1,4 @@
-print user + Abdulrahman
-   print bcolors.WARNING + ("  Mon  | Tue  | Wed  | Thur | Fri  | Sat  | sun |  ") + bcolors.ENDC
-   print("---------------------------------------------------")
-   print bcolors.FAIL + ("       |      |      |      | 9-4  |4Close| 9-4 |  ") + bcolors.ENDC
-   print("---------------------------------------------------")
-   print user1 + Abdullah
-
-   print bcolors.WARNING + ("  Mon  | Tue  | Wed  | Thur | Fri  | Sat  | sun |  ") + bcolors.ENDC
-   print("---------------------------------------------------")
-   print bcolors.FAIL + ("       |      |4Close|4Close|      |4Close|4Close|  ") + bcolors.ENDC
-   print("---------------------------------------------------")
-
-   print user2 + Ahmed
-
-
-   print bcolors.WARNING + ("  Mon  | Tue  | Wed  | Thur | Fri  | Sat  | sun |  ") + bcolors.ENDC
-   print("---------------------------------------------------")
-   print bcolors.FAIL + ("4-Close|4Close|      |      |4Close|      |4Close|  ") + bcolors.ENDC
-   print("---------------------------------------------------")
-
-   print user3 + Fakri
-
-
-   print bcolors.WARNING + ("  Mon  | Tue  | Wed  | Thur | Fri  | Sat  | sun |  ") + bcolors.ENDC
-   print("---------------------------------------------------")
-   print bcolors.FAIL + ("       |      |      |      |      | 9-4 |     |  ") + bcolors.ENDC
-   print("---------------------------------------------------")
+'''1.ahmed
+2.ali
+3.ahmed
+4.ali"""
